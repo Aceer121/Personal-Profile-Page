@@ -10,7 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #222;
   background: #f7f5f0;
-  background: url('images/NYC Sky Scraper.jpg') no-repeat top center ;;
+  background: url('images/Rockafeller NYC ver2.jpg') no-repeat top center ;;
 
 
 }
@@ -82,7 +82,7 @@ header .profile-image:hover {
   background-color: #efefef;
   color: black;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 80px;
   display: table;
   margin: 10px auto;
 }
@@ -97,7 +97,7 @@ header .profile-image:hover {
   text-align: center;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
+  border-radius: 22px;
   transition: all .5s;
 }
 .card:hover {
