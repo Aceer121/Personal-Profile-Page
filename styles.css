@@ -1,8 +1,5 @@
 
 /* Global Layout Set-up */
-* {
-  box-sizing: border-box;
-}
 
 body {
   margin: 0;
@@ -93,7 +90,7 @@ header .profile-image:hover {
 }
 .card {
   margin: 30px;
-  padding: px 40px 40px;
+  padding:  40px 40px;
   max-width: 500px;
   text-align: center;
   background: #fff;
@@ -172,7 +169,6 @@ a.social:hover {
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
-
   .flex {
       display: -ms-flexbox;      /* TWEENER - IE 10 */
       display: flex;

@@ -1,7 +1,0 @@
-﻿<!DOCTYPE html>
-<html>
-<body>
-<head>
-  <title>Experience</title>
-</head>
-<h1>About Me</h1>

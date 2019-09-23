@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<title>Arcel Derosena</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
+</head>
+  <body>
+
+<style>
+<body {
+    background-image: url('images/NYC boardwalk.jpg');
+            background-repeat:no-repeat;
+           background-size:cover;
+         }
+         </style>
+
+  <div class="main-nav">
+        <ul class="nav">
+          <li class="name">Arcel Derosena</li>
+          <li><a href="index.html">Home</a></li>
+            <li><a href="Experience/index.htm">Experience</a></li>
+          <li><a href="about/index.html">About</a></li>
+        </ul>
+    </div>
+      <header>
+      <img src="images/Pic3.jpg" alt="Drawing of Arcel Derosena" class="profile-image">
+      <h1 class="tag name">Hello, I'm Arcel.</h1>
+      <p class="tag location">My home is Brooklyn,NY.</p>
+    </header>
+    <main class="flex">
+      <div class="card">
+        <h2>Background</h2>
+        <p>I’ve worked in lots of different jobs. I’ve worked in retail,food and hospitality and I'm looking to get into the tech industry.</p>
+      </div>
+  <div class="card">
+      <h2>Goals</h2>
+        <p>I want to master coding to gain a career in the tech industry. I’d like be in shape all year round. Someday I see myself owning my own startup and it being one of the top companies.</p>
+        <ul class="skills">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>Rails</li>
+        </ul>
+  </div>
+<div class="card">
+  <h3>Hobbies</h3>
+  <p>I like 80s music.I'm always into meeting new people.I like to drink Bubble tea.</p>
+</div>
+</main>
+<footer>
+  <a href="https://twitter.com/DDarcel21" class="social twitter" target="_blank">Twitter</a>
+    <a href="https://www.linkedin.com/in/arcel-derosena-85981875/" class="social linkedin"  target="_blank">Linkedin</a>
+    <a href="https://github.com/Aceer121/Tech-Degree-Project-1" class="social github"  target="_blank">github</a>
+<p class="copyright">Copyright 2019, Arcel Derosena</p>
+</footer>
+</body>
+</html>
